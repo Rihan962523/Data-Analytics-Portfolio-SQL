@@ -80,6 +80,3 @@ All SQL queries and their results are compiled in a Word document:
 **Created by:** Mohd Rihan  
 **GitHub:** [https://github.com/Rihan962523]  
 **LinkedIn:** [https://www.linkedin.com/in/mdrihan23]
-**Created by:** Mohd Rihan  
-**GitHub:** [https://github.com/Rihan962523]  
-**LinkedIn:** [https://www.linkedin.com/in/mdrihan23]
